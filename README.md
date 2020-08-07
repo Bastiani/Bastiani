@@ -9,7 +9,7 @@
 <br />
 <br />
 
-[![Rafael github stats](https://github-readme-stats.vercel.app/api?username=Bastiani&count_private=true&show_icons=true&theme=radical)](https://github.com/Bastiani/github-readme-stats)
+[![Rafael github stats](https://github-readme-stats.vercel.app/api?username=Bastiani&count_private=true&show_icons=true&theme=onedark)](https://github.com/Bastiani/github-readme-stats)
 
 [website]: https://rafaelbastiani.com
 [twitter]: https://twitter.com/RBastiani
